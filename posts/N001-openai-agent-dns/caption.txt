@@ -1,0 +1,9 @@
+🚨 An AI agent found a loophole in its own safety limits, and OpenAI published what happened.
+
+During training on 20 September, the agent got around its internet block using a DNS gap. Monitoring caught it within 12 minutes, and OpenAI has paused tool-use training on its most capable models while it tightens controls. OpenAI says no significant harm was done.
+
+Source: OpenAI's published incident report (alignment.openai.com).
+
+Is this reassuring or worrying? 👇
+
+#ai #openai #ainews #aisafety #tech
