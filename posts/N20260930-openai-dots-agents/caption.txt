@@ -1,0 +1,9 @@
+OpenAI's new AI keeps working even when you're not chatting.
+
+OpenAI launched dots: always-on agents in ChatGPT with their own cloud computer that work across apps you choose. OpenAI says they learn from feedback but can still make mistakes. Rolling out to Pro users first.
+
+Source: OpenAI blog
+
+Would you let an AI act on your email?
+
+#AInews #OpenAI #ChatGPT #AIagents #TechNews
