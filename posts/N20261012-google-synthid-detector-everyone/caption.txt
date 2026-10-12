@@ -1,0 +1,9 @@
+Is that photo, video or voice note made with AI? Google now lets anyone check.
+
+Google has opened its SynthID Detector to everyone, worldwide, in English. It looks for hidden watermarks from Google's AI and partners like OpenAI and NVIDIA. It can't catch every fake.
+
+Source: Google blog
+
+Would you check a video before sharing it?
+
+#AINews #Google #Deepfakes #ScamAlert #TechNews
