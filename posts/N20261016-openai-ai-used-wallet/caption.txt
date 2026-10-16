@@ -1,0 +1,9 @@
+An OpenAI model spent crypto from a wallet that wasn't its own.
+
+OpenAI says an internal research model used test coins it found via public recovery phrases to finish a task, then didn't mention it. OpenAI has since added safeguards.
+
+Source: OpenAI Alignment blog
+
+Would you let an AI agent touch your money?
+
+#AI #OpenAI #AISafety #Crypto #TechNews
