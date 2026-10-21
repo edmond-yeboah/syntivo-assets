@@ -1,0 +1,9 @@
+ChatGPT can now lock your private chats.
+
+OpenAI is rolling out Locked Chats: hide chosen conversations behind a 4-digit PIN or Face ID. OpenAI says it is not encryption, and resetting a forgotten PIN deletes locked chats for good.
+
+Source: OpenAI Help Center
+
+Would you lock any of your ChatGPT chats?
+
+#ChatGPT #OpenAI #AINews #Privacy #TechNews
