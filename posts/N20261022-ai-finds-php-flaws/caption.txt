@@ -1,0 +1,6 @@
+AI just found serious security holes in code behind many websites.
+OpenAI says its AI helped uncover critical flaws in PHP, a widely used web language, before attackers did. Fixes are out, and site owners are urged to update now.
+Source: OpenAI blog
+Is AI bug-hunting good news or scary news?
+
+#AInews #cybersecurity #OpenAI #PHP #tech
