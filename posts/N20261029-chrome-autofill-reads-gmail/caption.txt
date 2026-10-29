@@ -1,0 +1,9 @@
+Chrome can now use your Gmail to fill in forms.
+
+Google says Chrome's enhanced autofill, powered by Gemini, can suggest order numbers, tracking info and flight bookings from your inbox. It's rolling out in the U.S. for users with Personal Intelligence enabled.
+
+Source: Google blog
+
+Would you let AI read your inbox to save typing?
+
+#AI #Google #Chrome #Gemini #Privacy
